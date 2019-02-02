@@ -1,0 +1,27 @@
+permalink:              pretty
+
+title:                  athallas
+tagline:
+url:                    https://athallas.github.io
+baseurl:                "https://athallas.github.io"
+# baseurl:
+
+sass:
+    sass_dir:           _sass
+    style:              :compressed
+
+author:
+    name:               athallas
+    url:
+    email:              aris.thallas@gmail.com
+
+version:                0.0
+github:
+repo:                   https://github.com/athallas/athallas.github.io
+
+# pages_list:
+    # posts:              '/posts'
+    # research:           '/research'
+    # bugs:               '/bugs'
+
+# EOF
